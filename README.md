@@ -5,6 +5,9 @@
 - 📫 How to reach me: dimik1990@gmail.com
 - 😄 Pronouns: Demy
 
+## Certifications
+**[Datacamp Associate Data Engineer]**
+Gained hands-on experience in data engineering concepts including data medling, ETL pipelines, and cloud data integration
 
 <!---
 demdev0/demdev0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
